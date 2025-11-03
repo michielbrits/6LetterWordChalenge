@@ -1,6 +1,6 @@
-﻿using _6LetterWordChalenge.Models;
+﻿using _6LetterWordChallenge.Models;
 
-namespace _6LetterWordChalenge.Services
+namespace _6LetterWordChallenge.Services
 {
     public class WordCombinerService
     {

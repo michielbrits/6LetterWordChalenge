@@ -1,4 +1,4 @@
-﻿namespace _6LetterWordChalenge.Services
+﻿namespace _6LetterWordChallenge.Services
 {
     public interface IWordProvider
     {

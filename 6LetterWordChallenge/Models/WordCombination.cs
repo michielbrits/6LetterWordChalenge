@@ -1,4 +1,4 @@
-﻿namespace _6LetterWordChalenge.Models
+﻿namespace _6LetterWordChallenge.Models
 {
     public class WordCombination
     {

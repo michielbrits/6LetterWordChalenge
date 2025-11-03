@@ -1,4 +1,4 @@
-﻿using _6LetterWordChalenge.Services;
+﻿using _6LetterWordChallenge.Services;
 
 namespace _6LetterWordChallenge.Tests
 {

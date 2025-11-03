@@ -1,4 +1,4 @@
-﻿using _6LetterWordChalenge.Services;
+﻿using _6LetterWordChallenge.Services;
 using Microsoft.Extensions.Configuration;
 
 var config = new ConfigurationBuilder()
