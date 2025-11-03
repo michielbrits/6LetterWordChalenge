@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\6LetterWordChalenge\6LetterWordChalenge.csproj" />
+    <ProjectReference Include="..\6LetterWordChallenge\6LetterWordChallenge.csproj" />
   </ItemGroup>
 
 </Project>
