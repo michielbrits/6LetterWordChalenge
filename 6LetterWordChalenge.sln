@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6LetterWordChalenge", "6LetterWordChalenge\6LetterWordChalenge.csproj", "{9BAC22ED-1E2F-4EA0-BAE2-10A113214598}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6LetterWordChallenge.Tests", "6LetterWordChallenge.Tests\6LetterWordChallenge.Tests.csproj", "{93FF0983-A1FF-468B-8881-CF3E6E449A3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6LetterWordChalenge.Tests", "6LetterWordChalenge.Tests\6LetterWordChalenge.Tests.csproj", "{663CF339-C193-45B7-9CC7-87F1D61C3853}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{9BAC22ED-1E2F-4EA0-BAE2-10A113214598}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BAC22ED-1E2F-4EA0-BAE2-10A113214598}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BAC22ED-1E2F-4EA0-BAE2-10A113214598}.Release|Any CPU.Build.0 = Release|Any CPU
-		{93FF0983-A1FF-468B-8881-CF3E6E449A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{93FF0983-A1FF-468B-8881-CF3E6E449A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{93FF0983-A1FF-468B-8881-CF3E6E449A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{93FF0983-A1FF-468B-8881-CF3E6E449A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{663CF339-C193-45B7-9CC7-87F1D61C3853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663CF339-C193-45B7-9CC7-87F1D61C3853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663CF339-C193-45B7-9CC7-87F1D61C3853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663CF339-C193-45B7-9CC7-87F1D61C3853}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
